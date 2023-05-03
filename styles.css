@@ -1,6 +1,12 @@
 .nav-container {
-    background:  rgb(55, 136, 55);
+    padding: 80px;
+    color: #fff;
+    background-color: #1f2937;
     display: flex;
     justify-content: space-between;
 }
 
+.logo img {
+    width: 60px;
+    height: 60px;
+}
